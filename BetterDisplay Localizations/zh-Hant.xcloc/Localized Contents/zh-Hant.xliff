@@ -4349,6 +4349,7 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="VIRTUAL" xml:space="preserve">
         <source>VIRTUAL</source>
+        <target state="translated">虛擬</target>
         <note/>
       </trans-unit>
       <trans-unit id="Value" xml:space="preserve">
@@ -4357,214 +4358,267 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="Vendor ID" xml:space="preserve">
         <source>Vendor ID</source>
+        <target state="translated">供應商 ID</target>
         <note/>
       </trans-unit>
       <trans-unit id="Vendor and model ID" xml:space="preserve">
         <source>Vendor and model ID</source>
+        <target state="translated">供應商和型號 ID</target>
         <note/>
       </trans-unit>
       <trans-unit id="Version" xml:space="preserve">
         <source>Version</source>
+        <target state="translated">版本</target>
         <note/>
       </trans-unit>
       <trans-unit id="Vertical" xml:space="preserve">
         <source>Vertical</source>
+        <target state="translated">垂直</target>
         <note/>
       </trans-unit>
       <trans-unit id="Video Control Settings" xml:space="preserve">
         <source>Video Control Settings</source>
+        <target state="translated">視訊控制設定</target>
         <note/>
       </trans-unit>
       <trans-unit id="Virtual" xml:space="preserve">
         <source>Virtual</source>
+        <target state="translated">虛擬</target>
         <note/>
       </trans-unit>
       <trans-unit id="Virtual Screen Connect" xml:space="preserve">
         <source>Virtual Screen Connect</source>
+        <target state="translated">虚拟屏幕连接</target>
         <note/>
       </trans-unit>
       <trans-unit id="Virtual Screen Disconnect" xml:space="preserve">
         <source>Virtual Screen Disconnect</source>
+        <target state="translated">虛擬螢幕斷開</target>
         <note/>
       </trans-unit>
       <trans-unit id="Virtual Screen Management" xml:space="preserve">
         <source>Virtual Screen Management</source>
+        <target state="translated">虛擬螢幕管理</target>
         <note/>
       </trans-unit>
       <trans-unit id="Virtual Screen Mode" xml:space="preserve">
         <source>Virtual Screen Mode</source>
+        <target state="translated">虛擬螢幕模式</target>
         <note/>
       </trans-unit>
       <trans-unit id="Virtual Screen Resolutions" xml:space="preserve">
         <source>Virtual Screen Resolutions</source>
+        <target state="translated">虛擬螢幕分辨率</target>
         <note/>
       </trans-unit>
       <trans-unit id="Virtual Screens" xml:space="preserve">
         <source>Virtual Screens</source>
+        <target state="translated">虛擬螢幕</target>
         <note/>
       </trans-unit>
       <trans-unit id="Virtual screen" xml:space="preserve">
         <source>Virtual screen</source>
+        <target state="translated">虛擬螢幕</target>
         <note/>
       </trans-unit>
       <trans-unit id="Virtual screen follows display orientation" xml:space="preserve">
         <source>Virtual screen follows display orientation</source>
+        <target state="translated">虛擬螢幕跟隨顯示器方向</target>
         <note/>
       </trans-unit>
       <trans-unit id="Virtual screen name" xml:space="preserve">
         <source>Virtual screen name</source>
+        <target state="translated">虛擬螢幕名稱</target>
         <note/>
       </trans-unit>
       <trans-unit id="Virtual screen tag ID" xml:space="preserve">
         <source>Virtual screen tag ID</source>
+        <target state="translated">虛擬螢幕標籤 ID</target>
         <note/>
       </trans-unit>
       <trans-unit id="Virtual screens associated with displays cannot be manually connected or disconnected!" xml:space="preserve">
         <source>Virtual screens associated with displays cannot be manually connected or disconnected!</source>
+        <target state="translated">與顯示器關聯的虛擬螢幕無法手動連接或中斷！</target>
         <note/>
       </trans-unit>
       <trans-unit id="Virtual screens associated with displays cannot be manually connected!" xml:space="preserve">
         <source>Virtual screens associated with displays cannot be manually connected!</source>
+        <target state="translated">與顯示器關聯的虛擬螢幕無法手動連線！</target>
         <note/>
       </trans-unit>
       <trans-unit id="Virtual screens associated with displays cannot be manually disconnected!" xml:space="preserve">
         <source>Virtual screens associated with displays cannot be manually disconnected!</source>
+        <target state="translated">與顯示器關聯的虛擬螢幕無法手動斷開！</target>
         <note/>
       </trans-unit>
       <trans-unit id="Virtual screens by default work at 60Hz refresh rate but additional/different reported refresh rate modes can be created. Higher than 60Hz modes might not work in practice." xml:space="preserve">
         <source>Virtual screens by default work at 60Hz refresh rate but additional/different reported refresh rate modes can be created. Higher than 60Hz modes might not work in practice.</source>
+        <target state="translated">虛擬螢幕的預設更新率為 60Hz，但可建立其他/不同的刷新率模式。 高於 60Hz 的模式實際上可能無法生效。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Virtual screens can be connected/disconnected on demand any time. Some settings appear only when the screen is connected. Changing some of the settings below require the screen to be reconnected when it is already connected." xml:space="preserve">
         <source>Virtual screens can be connected/disconnected on demand any time. Some settings appear only when the screen is connected. Changing some of the settings below require the screen to be reconnected when it is already connected.</source>
+        <target state="translated">虛擬螢幕可依需求隨時連線或中斷。 某些設定僅連接螢幕時才出現。 更改下面的某些設定需要重連已連接的畫面。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Visible" xml:space="preserve">
         <source>Visible</source>
+        <target state="translated">可見</target>
         <note/>
       </trans-unit>
       <trans-unit id="Volume" xml:space="preserve">
         <source>Volume</source>
+        <target state="translated">音量</target>
         <note/>
       </trans-unit>
       <trans-unit id="Volume (DDC)" xml:space="preserve">
         <source>Volume (DDC)</source>
+        <target state="translated">音量 (DDC)</target>
         <note/>
       </trans-unit>
       <trans-unit id="Volume Control Settings" xml:space="preserve">
         <source>Volume Control Settings</source>
+        <target state="translated">音量控制设置</target>
         <note/>
       </trans-unit>
       <trans-unit id="Volume Control…" xml:space="preserve">
         <source>Volume Control…</source>
+        <target state="translated">音量控制...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Wait time between backlight state change operations" xml:space="preserve">
         <source>Wait time between backlight state change operations</source>
+        <target state="translated">背光狀態改變操作之間的等待時間</target>
         <note/>
       </trans-unit>
       <trans-unit id="Wait time for response on read" xml:space="preserve">
         <source>Wait time for response on read</source>
+        <target state="translated">讀取回應的等待時間</target>
         <note/>
       </trans-unit>
       <trans-unit id="Week of manufacture" xml:space="preserve">
         <source>Week of manufacture</source>
+        <target state="translated">製造週數</target>
         <note/>
       </trans-unit>
       <trans-unit id="When Expanded" xml:space="preserve">
         <source>When Expanded</source>
+        <target state="translated">展開時</target>
         <note/>
       </trans-unit>
       <trans-unit id="When HDR upscaling is enabled while hardware brightness control is disabled, the app uses a continuous brightness scale between zero and the calibrated max upscale value. Due to this the neutral setting (100% brightness, when on-screen HDR content is unclipped) might not fall to an OSD chiclet boundary which makes it difficult to attain via the shortcut keys. To fix this an additional mid-chiclet step at 100% brightness is inserted." xml:space="preserve">
         <source>When HDR upscaling is enabled while hardware brightness control is disabled, the app uses a continuous brightness scale between zero and the calibrated max upscale value. Due to this the neutral setting (100% brightness, when on-screen HDR content is unclipped) might not fall to an OSD chiclet boundary which makes it difficult to attain via the shortcut keys. To fix this an additional mid-chiclet step at 100% brightness is inserted.</source>
+        <target state="translated">啟用 HDR 提升且停用硬體亮度控制時，此應用程式在 0 和校準最大提升值之間採用連續亮度單位。 因此，中間設定（100%亮度，當螢幕上的HDR內容未受影響時）可能無法恰好落在調整浮窗 (OSD) 方格的邊界，從而難以透過快捷鍵實現。 應用程式在 100%亮度下插入了一個額外的中間補充以確保解決此問題。</target>
         <note/>
       </trans-unit>
       <trans-unit id="When Settings is Open" xml:space="preserve">
         <source>When Settings is Open</source>
+        <target state="translated">打開應用程式設定時</target>
         <note/>
       </trans-unit>
       <trans-unit id="When expanding a menu item, automatically hide other items under the given device / menu block. This helps keep the menu smaller." xml:space="preserve">
         <source>When expanding a menu item, automatically hide other items under the given device / menu block. This helps keep the menu smaller.</source>
+        <target state="translated">展開選單項目時自動隱藏給定裝置/選單區塊下的其他項目來縮小選單。</target>
         <note/>
       </trans-unit>
       <trans-unit id="When volume reaches 0%…" xml:space="preserve">
         <source>When volume reaches 0%…</source>
+        <target state="translated">當音量達到0%時...</target>
         <note/>
       </trans-unit>
       <trans-unit id="Width" xml:space="preserve">
         <source>Width</source>
+        <target state="translated">寬度</target>
         <note/>
       </trans-unit>
       <trans-unit id="Window" xml:space="preserve">
         <source>Window</source>
+        <target state="translated">視窗</target>
         <note/>
       </trans-unit>
       <trans-unit id="Window Controls" xml:space="preserve">
         <source>Window Controls</source>
+        <target state="translated">視窗控制</target>
         <note/>
       </trans-unit>
       <trans-unit id="Window Shadow" xml:space="preserve">
         <source>Window Shadow</source>
+        <target state="translated">視窗陰影</target>
         <note/>
       </trans-unit>
       <trans-unit id="Works with combined brightness and DDC hardware control. Most displays do not support turning the backlight off or back on via DDC." xml:space="preserve">
         <source>Works with combined brightness and DDC hardware control. Most displays do not support turning the backlight off or back on via DDC.</source>
+        <target state="translated">可與亮度和 DDC 硬體控制結合使用。 大多數顯示器不支援透過 DDC 開關背光。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Would you like to connect all displays before turning off connection management?" xml:space="preserve">
         <source>Would you like to connect all displays before turning off connection management?</source>
+        <target state="translated">您想在關閉連線管理之前連接所有顯示器嗎？</target>
         <note/>
       </trans-unit>
       <trans-unit id="Write last used values to display" xml:space="preserve">
         <source>Write last used values to display</source>
+        <target state="translated">向顯示寫入最後一次應用的值</target>
         <note/>
       </trans-unit>
       <trans-unit id="XDR Configuration" xml:space="preserve">
         <source>XDR Configuration</source>
+        <target state="translated">XDR 配置</target>
         <note/>
       </trans-unit>
       <trans-unit id="XDR Preset" xml:space="preserve">
         <source>XDR Preset</source>
+        <target state="translated">XDR 預設</target>
         <note/>
       </trans-unit>
       <trans-unit id="XDR/HDR upscaling compatible" xml:space="preserve">
         <source>XDR/HDR upscaling compatible</source>
+        <target state="translated">兼容 XDR/HDR 亮度提升</target>
         <note/>
       </trans-unit>
       <trans-unit id="Year %lld, week %lld" xml:space="preserve">
         <source>Year %lld, week %lld</source>
+        <target state="translated">%lld 年，%lld 月</target>
         <note/>
       </trans-unit>
       <trans-unit id="Year of manufacture" xml:space="preserve">
         <source>Year of manufacture</source>
+        <target state="translated">製造年份</target>
         <note/>
       </trans-unit>
       <trans-unit id="Yes" xml:space="preserve">
         <source>Yes</source>
+        <target state="translated">是</target>
         <note/>
       </trans-unit>
       <trans-unit id="You can also drag the app to Login Items under System Settings &gt; General." xml:space="preserve">
         <source>You can also drag the app to Login Items under System Settings &gt; General.</source>
+        <target state="translated">您也可將應用程式拖曳到 系統設定 &gt; 通用 &gt; 登入項目。</target>
         <note/>
       </trans-unit>
       <trans-unit id="You can change DDC volume and mute control support for this display under &quot;DDC Features…&quot;." xml:space="preserve">
         <source>You can change DDC volume and mute control support for this display under "DDC Features…".</source>
+        <target state="translated">您可在 "DDC 功能" 下變更此顯示的 DDC 音量和靜音控制支援。</target>
         <note/>
       </trans-unit>
       <trans-unit id="You can download the SF Symbols app from [developer.apple.com/sf-symbols](https://developer.apple.com/sf-symbols) to find the right SF Symbol icon string (try: `face.smiling`)." xml:space="preserve">
         <source>You can download the SF Symbols app from [developer.apple.com/sf-symbols](https://developer.apple.com/sf-symbols) to find the right SF Symbol icon string (try: `face.smiling`).</source>
+        <target state="translated">您可以從 [developer.apple.com/sf-symbols](https://developer.apple.com/sf-symbols) 下載 SF Symbols app 尋找適當的 SF Symbol 圖示字串（如 `face.smiling`）。</target>
         <note/>
       </trans-unit>
       <trans-unit id="You can override the default meaning of the on/off switch under Settings/Displays." xml:space="preserve">
         <source>You can override the default meaning of the on/off switch under Settings/Displays.</source>
+        <target state="translated">您可在 設定 &gt; 顯示器 下覆寫開/關切換的預設行為。</target>
         <note/>
       </trans-unit>
       <trans-unit id="You might want to hide the macOS volume OSD if the device has audio controls managed by the app. Useful for displays which has their own volume OSD that cannot be disabled." xml:space="preserve">
         <source>You might want to hide the macOS volume OSD if the device has audio controls managed by the app. Useful for displays which has their own volume OSD that cannot be disabled.</source>
+        <target state="translated">如果裝置音量控制由該應用程式管理，您可能會想要隱藏 macOS 音量調整浮窗 (OSD)。 對於無法停用音量調整浮窗 (OSD) 的顯示器非常有用。</target>
         <note/>
       </trans-unit>
       <trans-unit id="Zoom" xml:space="preserve">
         <source>Zoom</source>
+        <target state="translated">縮放</target>
         <note/>
       </trans-unit>
       <trans-unit id="[License Terms](https://betterdisplay.pro/license)" xml:space="preserve">
@@ -4621,6 +4675,7 @@ You can dismiss this notification - in this case the changes will be applied whe
       </trans-unit>
       <trans-unit id="x" xml:space="preserve">
         <source>x</source>
+        <target state="translated">x</target>
         <note/>
       </trans-unit>
       <trans-unit id="⚠ Associated display mirroring is enforced!" xml:space="preserve">
